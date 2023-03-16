@@ -166,12 +166,12 @@ hr
     text-decoration: none;
   }
 
-  a{
+  .footer-link{
     color: #e4f9f5;
     font-family: 'Montserrant', sans-serif;
     margin: 10px 2px;
   }
-a:hover
+footer-link:hover
 {
     color: #11999E;
 }
