@@ -165,25 +165,30 @@ hr
     background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
     text-decoration: none;
   }
-.footer-link
-{
+
+  .footer-link{
     color: #e4f9f5;
     font-family: 'Montserrant', sans-serif;
     margin: 10px 2px;
   }
-footer-link:hover
+a:hover
 {
-    color: #11999E;
+    color: #11999e;
 }
 .last
 {
     color: #e4f9f5;
-} 
-.puppy
-{
-    word-spacing:0px:
-  color:#e4f9f5;
 }
+
+
+
+
+
+
+
+
+
+
 
 
 
