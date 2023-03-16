@@ -167,19 +167,22 @@ hr
   }
 
   a{
-    color: #11999E;
+    color: #e4f9f5;
     font-family: 'Montserrant', sans-serif;
     margin: 10px 2px;
   }
 a:hover
 {
-    color: #e4f9f5;
+    color: #11999E;
 }
 .last
 {
     color: #e4f9f5;
 }
-
+.puppy
+{
+  color:#11999E;
+}
 
 
 
